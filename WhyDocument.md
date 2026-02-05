@@ -3,9 +3,9 @@
 **Candidate:** Valentín F. Carlomagno  
 **Date:** February 2026  
 **Challenge Duration:** 72 hours  
-**Repository:** [GitHub Link]  
-**Live Demo:** [Vercel Link]  
-**Demo Video:** [Loom Link - 5min walkthrough]
+**Repository:** [GitHub Link](https://github.com/FdezCarlomagno/DiagnoVET-challenge)  
+**Live Demo:** [Vercel Link](https://diagno-vet-challenge.vercel.app/)
+**Demo Video:** [Loom Link](https://www.loom.com/share/ba2b6931f7244029aaac217759598f3b)
 
 ---
 
